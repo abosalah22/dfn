@@ -50,8 +50,7 @@ local S = [[
 ▫️ فتح المجموعة :: لفتح المجموعة
 ▫️فتح الحب :: لسماح التكلم في الحب
 ➠➪➸➠➪➸➠➪➸➠➪➸
-Dev : @Th2_BOOS
-Dev : @Bedo_prog
+
 ]] 
 reply_msg(reply_id, S, ok_cb, false) 
 end 
