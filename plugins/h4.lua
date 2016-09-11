@@ -28,8 +28,7 @@ local S = [[
 ▫️ فتح الملصقات :: لفتح الملصقات
 ▫️ فتح الصور المتحركة :: لفتح التحركه
 ➠➪➸➠➪➸➠➪➸➠➪➸
-Dev : @Th_BOOS
-Dev : @Bedo_prog
+
 ]] 
 reply_msg(reply_id, S, ok_cb, false) 
 end 
