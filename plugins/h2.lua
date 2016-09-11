@@ -40,8 +40,7 @@ local S = [[
 ▫خواطر : لرويه الخواطـر التي يرسلها البوت
 ▫معرفي : لمعرفـه معـرفك عن طريـق البوت
 ➠➪➸➠➪➸➠➪➸➠➪➸➠➪
-Dev : @Th2_BOOS
-Dev : @Bedo_prog
+
 ]] 
 reply_msg(reply_id, S, ok_cb, false) 
 end 
