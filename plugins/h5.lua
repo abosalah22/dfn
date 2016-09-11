@@ -27,8 +27,7 @@ local S = [[
 ▫️تحديث :: لتحديث سيرفر البوت
 ▫️تصحيح :: لتصحيح سيرفر البوت
 ➠➪➸➠➪➸➠➪➸➠➪➸➠➪➸
-Dev : @Th2_BOOS
-Dev : @Bedo_prog
+
 ]] 
 reply_msg(reply_id, S, ok_cb, false) 
 end 
